@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Statlog</string>
+    <string name="profile">Profile</string>
+    <string name="Attendance">Attendance</string>
+    <string name="Performance">Performance</string>
+    <string name="Schedules">Schedules</string>
+    <string name="STimeTable">Time Table</string>
+    <string name="NoticeBoard">Notice Board</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="Maths">Subject: Maths</string>
+    <string name="Science">Subject: Science</string>
+    <string name="SubjectPerformance">Subject Performance</string>
+    <string name="LOGOUT">LOGOUT</string>
+
+
+
+</resources>
